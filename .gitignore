@@ -1,0 +1,6 @@
+.vscode
+.nvim
+compiled-binaries
+nxos-cli
+*.txt
+.DS_Store
